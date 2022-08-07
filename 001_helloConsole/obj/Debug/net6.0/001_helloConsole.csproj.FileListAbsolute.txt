@@ -1,0 +1,15 @@
+D:\удалить\c#\001_helloConsole\bin\Debug\net6.0\001_helloConsole.exe
+D:\удалить\c#\001_helloConsole\bin\Debug\net6.0\001_helloConsole.deps.json
+D:\удалить\c#\001_helloConsole\bin\Debug\net6.0\001_helloConsole.runtimeconfig.json
+D:\удалить\c#\001_helloConsole\bin\Debug\net6.0\001_helloConsole.dll
+D:\удалить\c#\001_helloConsole\bin\Debug\net6.0\001_helloConsole.pdb
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\001_helloConsole.csproj.AssemblyReference.cache
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\001_helloConsole.AssemblyInfoInputs.cache
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\001_helloConsole.AssemblyInfo.cs
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\001_helloConsole.csproj.CoreCompileInputs.cache
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\001_helloConsole.dll
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\refint\001_helloConsole.dll
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\001_helloConsole.pdb
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\001_helloConsole.genruntimeconfig.cache
+D:\удалить\c#\001_helloConsole\obj\Debug\net6.0\ref\001_helloConsole.dll
